@@ -11,6 +11,7 @@ My interest include:
 Things im interested in learning/working more with:
 - PySB
 - R
+- heat maps/fluid dynamics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvaWXHenderson&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvaWXHenderson&theme=blueberry)
