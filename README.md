@@ -13,7 +13,7 @@ Things im interested in learning/working more with:
 - R
 - heat maps/fluid dynamics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvaWXHenderson&theme=blueberry)
+<!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvaWXHenderson&theme=blueberry)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvaWXHenderson&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvaWXHenderson&theme=blueberry)
 
