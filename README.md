@@ -25,6 +25,7 @@ My Public Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Evolution-Simulator&theme=blueberry)](https://github.com/EvaWXHenderson/Evolution-Simulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Particles&theme=blueberry)](https://github.com/EvaWXHenderson/Particles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Small-Games&theme=blueberry)](https://github.com/EvaWXHenderson/Small-Games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Heat-Maps&theme=blueberry)](https://github.com/EvaWXHenderson/Heat-Maps)
 
 
 Thank you for reading :3 
