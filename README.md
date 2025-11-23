@@ -1,6 +1,6 @@
 ## EvaWXHenderson
 
-I am a 3rd year student completing a MSci in Chemistry with Medicinal Chemistry and currently looking for a placement-year position.
+Hiya, I am a 3rd year student completing a MSci in Chemistry with Medicinal Chemistry who likes to program in my free time.
 
 My interest include:
 - neuro-chemistry/signalling
