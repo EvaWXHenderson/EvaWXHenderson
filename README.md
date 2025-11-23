@@ -11,6 +11,7 @@ My interest include:
 Things im interested in learning/working more with:
 - PySB
 - R
+- Julia
 - fluid/smoke simulation
 
 <!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvaWXHenderson&theme=blueberry)-->
