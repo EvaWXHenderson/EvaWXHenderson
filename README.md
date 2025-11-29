@@ -24,8 +24,6 @@ My Public Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Particles&theme=blueberry)](https://github.com/EvaWXHenderson/Particles)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Particles-Reacting-&theme=blueberry)](https://github.com/EvaWXHenderson/Particles-Reacting-)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Heat-Maps&theme=blueberry)](https://github.com/EvaWXHenderson/Heat-Maps)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Evolution-Simulator&theme=blueberry)](https://github.com/EvaWXHenderson/Evolution-Simulator)
