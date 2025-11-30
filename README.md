@@ -20,7 +20,7 @@ Things im interested in learning/working more with:
 
 
   
-My Public Repositories:
+<!--My Public Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Particles&theme=blueberry)](https://github.com/EvaWXHenderson/Particles)
 
@@ -30,7 +30,7 @@ My Public Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Small-Games&theme=blueberry)](https://github.com/EvaWXHenderson/Small-Games)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Neuron-Models&theme=blueberry)](https://github.com/EvaWXHenderson/Neuron-Models)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvaWXHenderson&repo=Neuron-Models&theme=blueberry)](https://github.com/EvaWXHenderson/Neuron-Models)-->
 
 
 Thank you for reading :3 
