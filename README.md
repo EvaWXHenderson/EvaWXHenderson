@@ -11,6 +11,7 @@ My interest include:
 Things im interested in learning/working more with:
 - PySB
 - R
+- C/C++
 - Julia
 - fluid/smoke simulation
 
